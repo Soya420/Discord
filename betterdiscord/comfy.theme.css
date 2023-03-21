@@ -129,14 +129,14 @@
 }
 
 .theme-dark {
-  --background-primary: #23283d;
-  --background-secondary: #1e2233;
-  --background-secondary-alt: #191f2e;
-  --background-tertiary: #101320;
+  --background-primary: #1e1e1e;
+  --background-secondary: #1c1c1c;
+  --background-secondary-alt: #111111;
+  --background-tertiary: #000000;
   --background-mobile-primary: #23283d;
   --background-mobile-secondary: #1e2233;
   --channeltextarea-background: #191f2e;
-  --background-accent: #7289da;
+  --background-accent: #ffce2b;
   --background-message-hover: transparent;
   --background-modifier-hover: #00000010;
   --background-modifier-active: #0000001a;
