@@ -38,10 +38,10 @@
 */
 
   /* Spacing - Default value : 8px */
-  --user-buttons-spacing: 8px;
+
 
   /* Color - Default value : #096DC0 */
-  --user-buttons-color: #096dc0;
+
 
   /* ═══════『 ⭕ Roundness settings 』═══════
 *
@@ -49,15 +49,6 @@
 *       0 ➜ Square
 *       25 ➜ Circle
 */
-
-  /* Avatars - Default value : 5px */
-  --avatar-radius: 5px;
-
-  /* Status - Default value : 3px */
-  --status-radius: 3px;
-
-  /* Servers - Default value : 8px */
-  --server-radius: 8px;
 
   /* ═══════『 😃 Colored emoji picker 』═══════
 *   Change the value to "100%" if you want the default one */
@@ -67,26 +58,26 @@
   /* ═══════『 📜 Server/channel list 』═══════ */
 
   /* Mention - Default value : #F04747 */
-  --mention-color: #f04747;
+  --mention-color: rgba(255, 178, 36, 0.69);
 
   /* Unread - Default value : #7289DA */
-  --unread-color: #7289da;
+  --unread-color: #ffae00;
 
   /*  『 🔴 Mention colors in chat 』 */
 
   /* Bar on the right - Default value : #C66262 */
-  --mention-color-bar: #c66262;
+  --mention-color-bar: #c68f62;
 
   /* Background - Default value : #C662621F */
-  --mention-color-background: #c662621f;
+  --mention-color-background: rgba(166, 122, 85, 0.12);
 
   /* On hover - Default value : #C6626226 */
-  --mention-color-hover: #c6626226;
+  --mention-color-hover: rgba(198, 143, 98, 0.15);
 
   /* ═══════『 💬 Chat buttons 』═══════ */
 
   /* Default value : #7289DA */
-  --chat-buttons: #7289da;
+  --chat-buttons: #daa972;
 
   /* ═══════『 💬 SpotifyControls seek bar 』═══════
 *   ℹ️ : If you don't have the plugin : https://betterdiscord.app/plugin/SpotifyControls */
